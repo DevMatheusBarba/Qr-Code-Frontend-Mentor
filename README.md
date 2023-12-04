@@ -24,7 +24,7 @@ Essa é uma solução para o desafio [QR code component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Código](https://your-solution-url.com)
+- URL Solução: [Código](https://github.com/DevMatheusBarba/Qr-Code-Frontend-Mentor#links)
 - URL Site: [Deploy](https://qr-code-frontend-mentor-zeta-blue.vercel.app/)
 
 ## Meu Processo
